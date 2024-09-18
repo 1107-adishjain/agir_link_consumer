@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229294121279",
+    "project_id": "agrilink-50bd8",
+    "storage_bucket": "agrilink-50bd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229294121279:android:1181b0732e499c12d2738a",
+        "android_client_info": {
+          "package_name": "com.example.consumer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe_dslv4RiVgLmTtU5pGudyZVe7GjV56M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
